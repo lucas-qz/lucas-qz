@@ -2,7 +2,7 @@
 
 Gosto de criar aplicações que melhorem a vida das pessoas e facilite o dia a dia das empresas.
 Acredito que a tecnologia deve ser usada para ajudar pessoas e empresas a economizar seu bem mais precioso: o tempo.
-Acesse nosso [Portfólio](http://lucasqz.com.br)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,4 +27,5 @@ Acesse nosso [Portfólio](http://lucasqz.com.br)
 <div> 
   <a href = "mailto:lucas.qz.desenvolvedor@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-qz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://lucasqz.com.br" target="_blank"><img src="https://img.shields.io/badge/%27PORTF%C3%93LIO%27-20B2AA?style=for-the-badge" target="_blank"></a> 
 </div>

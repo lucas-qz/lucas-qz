@@ -8,6 +8,13 @@ Acredito que a tecnologia deve ser usada para ajudar pessoas e empresas a econom
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="40" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png">
   <img align="center" alt="Flask" height="40" width="40" src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM">
+
+  <img align="center" alt="JS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png">
+  <img align="center" alt="Node" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256">    
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg">  
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">  
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">    
   
   <img align="center" alt="SQLServer" height="40" width="40" src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png">
   <img align="center" alt="OracleL" height="40" width="40" src="https://media.licdn.com/dms/image/C4D12AQE5_IkofcA47Q/article-cover_image-shrink_600_2000/0/1586885098212?e=2147483647&v=beta&t=Nj_HbmTPeHPWGPC5KKfiPExMuxNoipc87niPerPpdsA">

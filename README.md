@@ -1,4 +1,4 @@
-## Olá :hand: eu sou Lucas Queiróz, desenvolvedor de software!
+## Olá :hand: eu sou Lucas Queiróz, desenvolvedor Web!
 
 Gosto de criar aplicações que melhorem a vida das pessoas e facilite o dia a dia das empresas.
 Acredito que a tecnologia deve ser usada para ajudar pessoas e empresas a economizar seu bem mais precioso: o tempo.

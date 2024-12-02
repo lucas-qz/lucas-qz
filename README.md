@@ -32,7 +32,7 @@ Acredito que a tecnologia deve ser usada para ajudar pessoas e empresas a econom
   <img align="center" alt="Docker" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">    
   <img align="center" alt="AWS" height="60" width="40" src="https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702633077_AWSlogoAmazonWebServiceslogo.png">    
   <img align="center" alt="Pytest" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png">    
-  <img align="center" alt="GitHub Actions" height="40" width="60" src="https://miro.medium.com/v2/resize:fit:875/1*YcFmahlLvOPyjfNtw1GkbQ.png"> 
+  <img align="center" alt="GitHub Actions" height="40" width="70" src="https://www.mabl.com/hs-fs/hubfs/CICDBlog.png?width=536&name=CICDBlog.png"> 
 
 </div>
   
